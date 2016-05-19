@@ -1,5 +1,15 @@
 source 'https://rubygems.org'
 
+group :development, :test do # <<<< :development, not devlopment
+  gem 'sqlite3'
+
+end
+
+group :production do 
+gem 'pg'
+gem 'rails_12factor'
+gem 'thin'
+end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.8'
@@ -21,8 +31,8 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
-gem 'sdoc', '~> 0.4.0',          group: :doc
-
+gem 'sdoc', '~> 0.4.0'         
+gem 'tzinfo-data', platforms: [:mingw, :mswin]
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
@@ -36,4 +46,4 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # gem 'debugger', group: [:development, :test]
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin]
+
