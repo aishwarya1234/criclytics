@@ -1,0 +1,964 @@
+"match-type","team","opposition","indicator","Unit","Date","Value"
+"T20s","Afganistan","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",17.67
+"T20s","Afganistan","All team","Matches","Number","1/1/2014 12:00:00 AM",25
+"T20s","Afganistan","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",13
+"T20s","Afganistan","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Afganistan","All team","Matches Won","Number","1/1/2014 12:00:00 AM",12
+"T20s","Afganistan","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",6.88
+"T20s","Afganistan","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",174
+"T20s","Afganistan","All team","Team Innings","Number","1/1/2014 12:00:00 AM",25
+"T20s","Afganistan","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",72
+"T20s","Afganistan","Bermuda","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",24.38
+"T20s","Afganistan","Bermuda","Matches","Number","1/1/2012 12:00:00 AM",2
+"T20s","Afganistan","Bermuda","Matches Lost","Number","1/1/2012 12:00:00 AM",0
+"T20s","Afganistan","Bermuda","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Afganistan","Bermuda","Matches Won","Number","1/1/2012 12:00:00 AM",2
+"T20s","Afganistan","Bermuda","Runs Per Over","Number","1/1/2012 12:00:00 AM",7.95
+"T20s","Afganistan","Bermuda","Team Highest Score","Number","1/1/2012 12:00:00 AM",174
+"T20s","Afganistan","Bermuda","Team Innings","Number","1/1/2012 12:00:00 AM",2
+"T20s","Afganistan","India","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",13.94
+"T20s","Afganistan","India","Matches","Number","1/1/2012 12:00:00 AM",2
+"T20s","Afganistan","India","Matches Lost","Number","1/1/2012 12:00:00 AM",2
+"T20s","Afganistan","India","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Afganistan","India","Matches Won","Number","1/1/2012 12:00:00 AM",0
+"T20s","Afganistan","India","Runs Per Over","Number","1/1/2012 12:00:00 AM",6.35
+"T20s","Afganistan","India","Team Highest Score","Number","1/1/2012 12:00:00 AM",136
+"T20s","Afganistan","India","Team Innings","Number","1/1/2012 12:00:00 AM",2
+"T20s","Afganistan","India","Team Lowest Score","Number","1/1/2012 12:00:00 AM",136
+"T20s","Afganistan","Ireland","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",19.88
+"T20s","Afganistan","Ireland","Matches","Number","1/1/2013 12:00:00 AM",5
+"T20s","Afganistan","Ireland","Matches Lost","Number","1/1/2013 12:00:00 AM",3
+"T20s","Afganistan","Ireland","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Afganistan","Ireland","Matches Won","Number","1/1/2013 12:00:00 AM",2
+"T20s","Afganistan","Ireland","Runs Per Over","Number","1/1/2013 12:00:00 AM",7.43
+"T20s","Afganistan","Ireland","Team Highest Score","Number","1/1/2013 12:00:00 AM",157
+"T20s","Afganistan","Ireland","Team Innings","Number","1/1/2013 12:00:00 AM",5
+"T20s","Afganistan","Ireland","Team Lowest Score","Number","1/1/2013 12:00:00 AM",157
+"T20s","Afganistan","Netherlands","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",14.72
+"T20s","Afganistan","Netherlands","Matches","Number","1/1/2013 12:00:00 AM",3
+"T20s","Afganistan","Netherlands","Matches Lost","Number","1/1/2013 12:00:00 AM",2
+"T20s","Afganistan","Netherlands","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Afganistan","Netherlands","Matches Won","Number","1/1/2013 12:00:00 AM",1
+"T20s","Afganistan","Netherlands","Runs Per Over","Number","1/1/2013 12:00:00 AM",6.25
+"T20s","Afganistan","Netherlands","Team Highest Score","Number","1/1/2013 12:00:00 AM",150
+"T20s","Afganistan","Netherlands","Team Innings","Number","1/1/2013 12:00:00 AM",3
+"T20s","Afganistan","Netherlands","Team Lowest Score","Number","1/1/2013 12:00:00 AM",90
+"T20s","Afganistan","Scotland","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",24.95
+"T20s","Afganistan","Scotland","Matches","Number","1/1/2013 12:00:00 AM",4
+"T20s","Afganistan","Scotland","Matches Lost","Number","1/1/2013 12:00:00 AM",0
+"T20s","Afganistan","Scotland","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Afganistan","Scotland","Matches Won","Number","1/1/2013 12:00:00 AM",4
+"T20s","Afganistan","Scotland","Runs Per Over","Number","1/1/2013 12:00:00 AM",7.4
+"T20s","Afganistan","Scotland","Team Highest Score","Number","1/1/2013 12:00:00 AM",171
+"T20s","Afganistan","Scotland","Team Innings","Number","1/1/2013 12:00:00 AM",4
+"T20s","Australia","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",25.13
+"T20s","Australia","All team","Matches","Number","1/1/2014 12:00:00 AM",77
+"T20s","Australia","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",34
+"T20s","Australia","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",2
+"T20s","Australia","All team","Matches Won","Number","1/1/2014 12:00:00 AM",40
+"T20s","Australia","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.27
+"T20s","Australia","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",248
+"T20s","Australia","All team","Team Innings","Number","1/1/2014 12:00:00 AM",77
+"T20s","Australia","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",79
+"T20s","Australia","Bangladesh","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",38.45
+"T20s","Australia","Bangladesh","Matches","Number","1/1/2014 12:00:00 AM",3
+"T20s","Australia","Bangladesh","Matches Lost","Number","1/1/2014 12:00:00 AM",0
+"T20s","Australia","Bangladesh","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Australia","Bangladesh","Matches Won","Number","1/1/2014 12:00:00 AM",3
+"T20s","Australia","Bangladesh","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.24
+"T20s","Australia","Bangladesh","Team Highest Score","Number","1/1/2014 12:00:00 AM",158
+"T20s","Australia","Bangladesh","Team Innings","Number","1/1/2014 12:00:00 AM",3
+"T20s","Australia","England","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",30.56
+"T20s","Australia","England","Matches","Number","1/1/2014 12:00:00 AM",12
+"T20s","Australia","England","Matches Lost","Number","1/1/2014 12:00:00 AM",4
+"T20s","Australia","England","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Australia","England","Matches Won","Number","1/1/2014 12:00:00 AM",7
+"T20s","Australia","England","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.86
+"T20s","Australia","England","Team Highest Score","Number","1/1/2014 12:00:00 AM",248
+"T20s","Australia","England","Team Innings","Number","1/1/2014 12:00:00 AM",12
+"T20s","Australia","England","Team Lowest Score","Number","1/1/2014 12:00:00 AM",79
+"T20s","Australia","India","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",26.56
+"T20s","Australia","India","Matches","Number","1/1/2014 12:00:00 AM",9
+"T20s","Australia","India","Matches Lost","Number","1/1/2014 12:00:00 AM",5
+"T20s","Australia","India","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Australia","India","Matches Won","Number","1/1/2014 12:00:00 AM",4
+"T20s","Australia","India","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.18
+"T20s","Australia","India","Team Highest Score","Number","1/1/2014 12:00:00 AM",201
+"T20s","Australia","India","Team Innings","Number","1/1/2014 12:00:00 AM",9
+"T20s","Australia","India","Team Lowest Score","Number","1/1/2014 12:00:00 AM",86
+"T20s","Australia","New Zealand","Average Runs Per Wicket","Number","1/1/2010 12:00:00 AM",33.96
+"T20s","Australia","New Zealand","Matches","Number","1/1/2010 12:00:00 AM",5
+"T20s","Australia","New Zealand","Matches Lost","Number","1/1/2010 12:00:00 AM",0
+"T20s","Australia","New Zealand","Matches Tied","Number","1/1/2010 12:00:00 AM",1
+"T20s","Australia","New Zealand","Matches Won","Number","1/1/2010 12:00:00 AM",4
+"T20s","Australia","New Zealand","Runs Per Over","Number","1/1/2010 12:00:00 AM",9.19
+"T20s","Australia","New Zealand","Team Highest Score","Number","1/1/2010 12:00:00 AM",214
+"T20s","Australia","New Zealand","Team Innings","Number","1/1/2010 12:00:00 AM",5
+"T20s","Australia","Pakistan","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",17.08
+"T20s","Australia","Pakistan","Matches","Number","1/1/2014 12:00:00 AM",13
+"T20s","Australia","Pakistan","Matches Lost","Number","1/1/2014 12:00:00 AM",7
+"T20s","Australia","Pakistan","Matches Tied","Number","1/1/2014 12:00:00 AM",1
+"T20s","Australia","Pakistan","Matches Won","Number","1/1/2014 12:00:00 AM",5
+"T20s","Australia","Pakistan","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.51
+"T20s","Australia","Pakistan","Team Highest Score","Number","1/1/2014 12:00:00 AM",197
+"T20s","Australia","Pakistan","Team Innings","Number","1/1/2014 12:00:00 AM",13
+"T20s","Australia","Pakistan","Team Lowest Score","Number","1/1/2014 12:00:00 AM",89
+"T20s","Australia","South Africa","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",26.56
+"T20s","Australia","South Africa","Matches","Number","1/1/2014 12:00:00 AM",14
+"T20s","Australia","South Africa","Matches Lost","Number","1/1/2014 12:00:00 AM",5
+"T20s","Australia","South Africa","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Australia","South Africa","Matches Won","Number","1/1/2014 12:00:00 AM",9
+"T20s","Australia","South Africa","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.39
+"T20s","Australia","South Africa","Team Highest Score","Number","1/1/2014 12:00:00 AM",209
+"T20s","Australia","South Africa","Team Innings","Number","1/1/2014 12:00:00 AM",14
+"T20s","Australia","Sri Lanka","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",25.11
+"T20s","Australia","Sri Lanka","Matches","Number","1/1/2013 12:00:00 AM",8
+"T20s","Australia","Sri Lanka","Matches Lost","Number","1/1/2013 12:00:00 AM",6
+"T20s","Australia","Sri Lanka","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Australia","Sri Lanka","Matches Won","Number","1/1/2013 12:00:00 AM",2
+"T20s","Australia","Sri Lanka","Runs Per Over","Number","1/1/2013 12:00:00 AM",7.77
+"T20s","Australia","Sri Lanka","Team Highest Score","Number","1/1/2013 12:00:00 AM",168
+"T20s","Australia","Sri Lanka","Team Innings","Number","1/1/2013 12:00:00 AM",8
+"T20s","Australia","West Indies","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",25.29
+"T20s","Australia","West Indies","Matches","Number","1/1/2014 12:00:00 AM",11
+"T20s","Australia","West Indies","Matches Lost","Number","1/1/2014 12:00:00 AM",6
+"T20s","Australia","West Indies","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Australia","West Indies","Matches Won","Number","1/1/2014 12:00:00 AM",5
+"T20s","Australia","West Indies","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.56
+"T20s","Australia","West Indies","Team Highest Score","Number","1/1/2014 12:00:00 AM",179
+"T20s","Australia","West Indies","Team Innings","Number","1/1/2014 12:00:00 AM",11
+"T20s","Australia","West Indies","Team Lowest Score","Number","1/1/2014 12:00:00 AM",131
+"T20s","Bangladesh","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",18.68
+"T20s","Bangladesh","All team","Matches","Number","1/1/2014 12:00:00 AM",41
+"T20s","Bangladesh","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",29
+"T20s","Bangladesh","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Bangladesh","All team","Matches Won","Number","1/1/2014 12:00:00 AM",11
+"T20s","Bangladesh","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.27
+"T20s","Bangladesh","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",190
+"T20s","Bangladesh","All team","Team Innings","Number","1/1/2014 12:00:00 AM",41
+"T20s","Bangladesh","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",78
+"T20s","Bangladesh","Australia","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",16.95
+"T20s","Bangladesh","Australia","Matches","Number","1/1/2014 12:00:00 AM",3
+"T20s","Bangladesh","Australia","Matches Lost","Number","1/1/2014 12:00:00 AM",3
+"T20s","Bangladesh","Australia","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Bangladesh","Australia","Matches Won","Number","1/1/2014 12:00:00 AM",0
+"T20s","Bangladesh","Australia","Runs Per Over","Number","1/1/2014 12:00:00 AM",6.64
+"T20s","Bangladesh","Australia","Team Highest Score","Number","1/1/2014 12:00:00 AM",153
+"T20s","Bangladesh","Australia","Team Innings","Number","1/1/2014 12:00:00 AM",3
+"T20s","Bangladesh","Australia","Team Lowest Score","Number","1/1/2014 12:00:00 AM",114
+"T20s","Bangladesh","India","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",19.53
+"T20s","Bangladesh","India","Matches","Number","1/1/2014 12:00:00 AM",2
+"T20s","Bangladesh","India","Matches Lost","Number","1/1/2014 12:00:00 AM",2
+"T20s","Bangladesh","India","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Bangladesh","India","Matches Won","Number","1/1/2014 12:00:00 AM",0
+"T20s","Bangladesh","India","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.32
+"T20s","Bangladesh","India","Team Highest Score","Number","1/1/2014 12:00:00 AM",155
+"T20s","Bangladesh","India","Team Innings","Number","1/1/2014 12:00:00 AM",2
+"T20s","Bangladesh","Ireland","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",22.74
+"T20s","Bangladesh","Ireland","Matches","Number","1/1/2012 12:00:00 AM",4
+"T20s","Bangladesh","Ireland","Matches Lost","Number","1/1/2012 12:00:00 AM",1
+"T20s","Bangladesh","Ireland","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Bangladesh","Ireland","Matches Won","Number","1/1/2012 12:00:00 AM",3
+"T20s","Bangladesh","Ireland","Runs Per Over","Number","1/1/2012 12:00:00 AM",7.67
+"T20s","Bangladesh","Ireland","Team Highest Score","Number","1/1/2012 12:00:00 AM",190
+"T20s","Bangladesh","Ireland","Team Innings","Number","1/1/2012 12:00:00 AM",4
+"T20s","Bangladesh","New Zealand","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",14.77
+"T20s","Bangladesh","New Zealand","Matches","Number","1/1/2013 12:00:00 AM",3
+"T20s","Bangladesh","New Zealand","Matches Lost","Number","1/1/2013 12:00:00 AM",3
+"T20s","Bangladesh","New Zealand","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Bangladesh","New Zealand","Matches Won","Number","1/1/2013 12:00:00 AM",0
+"T20s","Bangladesh","New Zealand","Runs Per Over","Number","1/1/2013 12:00:00 AM",6.93
+"T20s","Bangladesh","New Zealand","Team Highest Score","Number","1/1/2013 12:00:00 AM",189
+"T20s","Bangladesh","New Zealand","Team Innings","Number","1/1/2013 12:00:00 AM",3
+"T20s","Bangladesh","New Zealand","Team Lowest Score","Number","1/1/2013 12:00:00 AM",78
+"T20s","Bangladesh","Pakistan","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",17.01
+"T20s","Bangladesh","Pakistan","Matches","Number","1/1/2014 12:00:00 AM",7
+"T20s","Bangladesh","Pakistan","Matches Lost","Number","1/1/2014 12:00:00 AM",7
+"T20s","Bangladesh","Pakistan","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Bangladesh","Pakistan","Matches Won","Number","1/1/2014 12:00:00 AM",0
+"T20s","Bangladesh","Pakistan","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.02
+"T20s","Bangladesh","Pakistan","Team Highest Score","Number","1/1/2014 12:00:00 AM",175
+"T20s","Bangladesh","Pakistan","Team Innings","Number","1/1/2014 12:00:00 AM",7
+"T20s","Bangladesh","Pakistan","Team Lowest Score","Number","1/1/2014 12:00:00 AM",101
+"T20s","Bangladesh","Sri Lanka","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",16.17
+"T20s","Bangladesh","Sri Lanka","Matches","Number","1/1/2014 12:00:00 AM",4
+"T20s","Bangladesh","Sri Lanka","Matches Lost","Number","1/1/2014 12:00:00 AM",4
+"T20s","Bangladesh","Sri Lanka","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Bangladesh","Sri Lanka","Matches Won","Number","1/1/2014 12:00:00 AM",0
+"T20s","Bangladesh","Sri Lanka","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.26
+"T20s","Bangladesh","Sri Lanka","Team Highest Score","Number","1/1/2014 12:00:00 AM",181
+"T20s","Bangladesh","Sri Lanka","Team Innings","Number","1/1/2014 12:00:00 AM",4
+"T20s","Bangladesh","Sri Lanka","Team Lowest Score","Number","1/1/2014 12:00:00 AM",83
+"T20s","Bangladesh","West Indies","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",23.41
+"T20s","Bangladesh","West Indies","Matches","Number","1/1/2014 12:00:00 AM",6
+"T20s","Bangladesh","West Indies","Matches Lost","Number","1/1/2014 12:00:00 AM",3
+"T20s","Bangladesh","West Indies","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Bangladesh","West Indies","Matches Won","Number","1/1/2014 12:00:00 AM",2
+"T20s","Bangladesh","West Indies","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.14
+"T20s","Bangladesh","West Indies","Team Highest Score","Number","1/1/2014 12:00:00 AM",179
+"T20s","Bangladesh","West Indies","Team Innings","Number","1/1/2014 12:00:00 AM",6
+"T20s","Bangladesh","West Indies","Team Lowest Score","Number","1/1/2014 12:00:00 AM",98
+"T20s","Bangladesh","Zimbabwe","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",19.84
+"T20s","Bangladesh","Zimbabwe","Matches","Number","1/1/2013 12:00:00 AM",3
+"T20s","Bangladesh","Zimbabwe","Matches Lost","Number","1/1/2013 12:00:00 AM",1
+"T20s","Bangladesh","Zimbabwe","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Bangladesh","Zimbabwe","Matches Won","Number","1/1/2013 12:00:00 AM",2
+"T20s","Bangladesh","Zimbabwe","Runs Per Over","Number","1/1/2013 12:00:00 AM",8.28
+"T20s","Bangladesh","Zimbabwe","Team Highest Score","Number","1/1/2013 12:00:00 AM",168
+"T20s","Bangladesh","Zimbabwe","Team Innings","Number","1/1/2013 12:00:00 AM",3
+"T20s","Bangladesh","Zimbabwe","Team Lowest Score","Number","1/1/2013 12:00:00 AM",166
+"T20s","Canada","Afganistan","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",18.2
+"T20s","Canada","Afganistan","Matches","Number","1/1/2012 12:00:00 AM",2
+"T20s","Canada","Afganistan","Matches Lost","Number","1/1/2012 12:00:00 AM",2
+"T20s","Canada","Afganistan","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Canada","Afganistan","Matches Won","Number","1/1/2012 12:00:00 AM",0
+"T20s","Canada","Afganistan","Runs Per Over","Number","1/1/2012 12:00:00 AM",6.82
+"T20s","Canada","Afganistan","Team Highest Score","Number","1/1/2012 12:00:00 AM",140
+"T20s","Canada","Afganistan","Team Innings","Number","1/1/2012 12:00:00 AM",2
+"T20s","Canada","All team","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",16.27
+"T20s","Canada","All team","Matches","Number","1/1/2013 12:00:00 AM",19
+"T20s","Canada","All team","Matches Lost","Number","1/1/2013 12:00:00 AM",14
+"T20s","Canada","All team","Matches Tied","Number","1/1/2013 12:00:00 AM",1
+"T20s","Canada","All team","Matches Won","Number","1/1/2013 12:00:00 AM",4
+"T20s","Canada","All team","Runs Per Over","Number","1/1/2013 12:00:00 AM",6.37
+"T20s","Canada","All team","Team Highest Score","Number","1/1/2013 12:00:00 AM",176
+"T20s","Canada","All team","Team Innings","Number","1/1/2013 12:00:00 AM",19
+"T20s","Canada","All team","Team Lowest Score","Number","1/1/2013 12:00:00 AM",75
+"T20s","Canada","Ireland","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",32
+"T20s","Canada","Ireland","Matches","Number","1/1/2013 12:00:00 AM",3
+"T20s","Canada","Ireland","Matches Lost","Number","1/1/2013 12:00:00 AM",2
+"T20s","Canada","Ireland","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Canada","Ireland","Matches Won","Number","1/1/2013 12:00:00 AM",1
+"T20s","Canada","Ireland","Runs Per Over","Number","1/1/2013 12:00:00 AM",7.46
+"T20s","Canada","Ireland","Team Highest Score","Number","1/1/2013 12:00:00 AM",176
+"T20s","Canada","Ireland","Team Innings","Number","1/1/2013 12:00:00 AM",3
+"T20s","Canada","Kenya","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",13.63
+"T20s","Canada","Kenya","Matches","Number","1/1/2013 12:00:00 AM",5
+"T20s","Canada","Kenya","Matches Lost","Number","1/1/2013 12:00:00 AM",4
+"T20s","Canada","Kenya","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Canada","Kenya","Matches Won","Number","1/1/2013 12:00:00 AM",1
+"T20s","Canada","Kenya","Runs Per Over","Number","1/1/2013 12:00:00 AM",6.22
+"T20s","Canada","Kenya","Team Highest Score","Number","1/1/2013 12:00:00 AM",138
+"T20s","Canada","Kenya","Team Innings","Number","1/1/2013 12:00:00 AM",5
+"T20s","Canada","Kenya","Team Lowest Score","Number","1/1/2013 12:00:00 AM",91
+"T20s","Canada","Netherlands","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",14.52
+"T20s","Canada","Netherlands","Matches","Number","1/1/2012 12:00:00 AM",3
+"T20s","Canada","Netherlands","Matches Lost","Number","1/1/2012 12:00:00 AM",2
+"T20s","Canada","Netherlands","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Canada","Netherlands","Matches Won","Number","1/1/2012 12:00:00 AM",1
+"T20s","Canada","Netherlands","Runs Per Over","Number","1/1/2012 12:00:00 AM",5.94
+"T20s","Canada","Netherlands","Team Highest Score","Number","1/1/2012 12:00:00 AM",142
+"T20s","Canada","Netherlands","Team Innings","Number","1/1/2012 12:00:00 AM",3
+"T20s","Canada","Netherlands","Team Lowest Score","Number","1/1/2012 12:00:00 AM",93
+"T20s","England","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",24.06
+"T20s","England","All team","Matches","Number","1/1/2014 12:00:00 AM",74
+"T20s","England","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",36
+"T20s","England","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","England","All team","Matches Won","Number","1/1/2014 12:00:00 AM",34
+"T20s","England","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.06
+"T20s","England","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",214
+"T20s","England","All team","Team Innings","Number","1/1/2014 12:00:00 AM",74
+"T20s","England","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",80
+"T20s","England","Australia","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",20.41
+"T20s","England","Australia","Matches","Number","1/1/2014 12:00:00 AM",12
+"T20s","England","Australia","Matches Lost","Number","1/1/2014 12:00:00 AM",7
+"T20s","England","Australia","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","England","Australia","Matches Won","Number","1/1/2014 12:00:00 AM",4
+"T20s","England","Australia","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.14
+"T20s","England","Australia","Team Highest Score","Number","1/1/2014 12:00:00 AM",209
+"T20s","England","Australia","Team Innings","Number","1/1/2014 12:00:00 AM",12
+"T20s","England","Australia","Team Lowest Score","Number","1/1/2014 12:00:00 AM",111
+"T20s","England","India","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",25.85
+"T20s","England","India","Matches","Number","1/1/2014 12:00:00 AM",8
+"T20s","England","India","Matches Lost","Number","1/1/2014 12:00:00 AM",3
+"T20s","England","India","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","England","India","Matches Won","Number","1/1/2014 12:00:00 AM",5
+"T20s","England","India","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.11
+"T20s","England","India","Team Highest Score","Number","1/1/2014 12:00:00 AM",200
+"T20s","England","India","Team Innings","Number","1/1/2014 12:00:00 AM",8
+"T20s","England","India","Team Lowest Score","Number","1/1/2014 12:00:00 AM",80
+"T20s","England","Netherlands","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",16.66
+"T20s","England","Netherlands","Matches","Number","1/1/2014 12:00:00 AM",2
+"T20s","England","Netherlands","Matches Lost","Number","1/1/2014 12:00:00 AM",2
+"T20s","England","Netherlands","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","England","Netherlands","Matches Won","Number","1/1/2014 12:00:00 AM",0
+"T20s","England","Netherlands","Runs Per Over","Number","1/1/2014 12:00:00 AM",6.63
+"T20s","England","Netherlands","Team Highest Score","Number","1/1/2014 12:00:00 AM",162
+"T20s","England","Netherlands","Team Innings","Number","1/1/2014 12:00:00 AM",2
+"T20s","England","Netherlands","Team Lowest Score","Number","1/1/2014 12:00:00 AM",88
+"T20s","England","New Zealand","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",28.13
+"T20s","England","New Zealand","Matches","Number","1/1/2014 12:00:00 AM",12
+"T20s","England","New Zealand","Matches Lost","Number","1/1/2014 12:00:00 AM",4
+"T20s","England","New Zealand","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","England","New Zealand","Matches Won","Number","1/1/2014 12:00:00 AM",7
+"T20s","England","New Zealand","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.79
+"T20s","England","New Zealand","Team Highest Score","Number","1/1/2014 12:00:00 AM",214
+"T20s","England","New Zealand","Team Innings","Number","1/1/2014 12:00:00 AM",12
+"T20s","England","New Zealand","Team Lowest Score","Number","1/1/2014 12:00:00 AM",137
+"T20s","England","Pakistan","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",26.26
+"T20s","England","Pakistan","Matches","Number","1/1/2012 12:00:00 AM",10
+"T20s","England","Pakistan","Matches Lost","Number","1/1/2012 12:00:00 AM",3
+"T20s","England","Pakistan","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","England","Pakistan","Matches Won","Number","1/1/2012 12:00:00 AM",7
+"T20s","England","Pakistan","Runs Per Over","Number","1/1/2012 12:00:00 AM",7.35
+"T20s","England","Pakistan","Team Highest Score","Number","1/1/2012 12:00:00 AM",185
+"T20s","England","Pakistan","Team Innings","Number","1/1/2012 12:00:00 AM",10
+"T20s","England","South Africa","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",20.86
+"T20s","England","South Africa","Matches","Number","1/1/2014 12:00:00 AM",9
+"T20s","England","South Africa","Matches Lost","Number","1/1/2014 12:00:00 AM",5
+"T20s","England","South Africa","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","England","South Africa","Matches Won","Number","1/1/2014 12:00:00 AM",3
+"T20s","England","South Africa","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.94
+"T20s","England","South Africa","Team Highest Score","Number","1/1/2014 12:00:00 AM",202
+"T20s","England","South Africa","Team Innings","Number","1/1/2014 12:00:00 AM",9
+"T20s","England","South Africa","Team Lowest Score","Number","1/1/2014 12:00:00 AM",111
+"T20s","England","Sri Lanka","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",25.48
+"T20s","England","Sri Lanka","Matches","Number","1/1/2014 12:00:00 AM",6
+"T20s","England","Sri Lanka","Matches Lost","Number","1/1/2014 12:00:00 AM",4
+"T20s","England","Sri Lanka","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","England","Sri Lanka","Matches Won","Number","1/1/2014 12:00:00 AM",2
+"T20s","England","Sri Lanka","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.17
+"T20s","England","Sri Lanka","Team Highest Score","Number","1/1/2014 12:00:00 AM",190
+"T20s","England","Sri Lanka","Team Innings","Number","1/1/2014 12:00:00 AM",6
+"T20s","England","West Indies","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",25.72
+"T20s","England","West Indies","Matches","Number","1/1/2014 12:00:00 AM",12
+"T20s","England","West Indies","Matches Lost","Number","1/1/2014 12:00:00 AM",8
+"T20s","England","West Indies","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","England","West Indies","Matches Won","Number","1/1/2014 12:00:00 AM",4
+"T20s","England","West Indies","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.04
+"T20s","England","West Indies","Team Highest Score","Number","1/1/2014 12:00:00 AM",193
+"T20s","England","West Indies","Team Innings","Number","1/1/2014 12:00:00 AM",12
+"T20s","England","West Indies","Team Lowest Score","Number","1/1/2014 12:00:00 AM",88
+"T20s","India","Afganistan","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",34.37
+"T20s","India","Afganistan","Matches","Number","1/1/2012 12:00:00 AM",2
+"T20s","India","Afganistan","Matches Lost","Number","1/1/2012 12:00:00 AM",0
+"T20s","India","Afganistan","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","India","Afganistan","Matches Won","Number","1/1/2012 12:00:00 AM",2
+"T20s","India","Afganistan","Runs Per Over","Number","1/1/2012 12:00:00 AM",7.89
+"T20s","India","Afganistan","Team Highest Score","Number","1/1/2012 12:00:00 AM",159
+"T20s","India","Afganistan","Team Innings","Number","1/1/2012 12:00:00 AM",2
+"T20s","India","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",28.08
+"T20s","India","All team","Matches","Number","1/1/2014 12:00:00 AM",53
+"T20s","India","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",21
+"T20s","India","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",1
+"T20s","India","All team","Matches Won","Number","1/1/2014 12:00:00 AM",30
+"T20s","India","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",8
+"T20s","India","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",218
+"T20s","India","All team","Team Innings","Number","1/1/2014 12:00:00 AM",52
+"T20s","India","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",74
+"T20s","India","Australia","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",24.81
+"T20s","India","Australia","Matches","Number","1/1/2014 12:00:00 AM",9
+"T20s","India","Australia","Matches Lost","Number","1/1/2014 12:00:00 AM",4
+"T20s","India","Australia","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","India","Australia","Matches Won","Number","1/1/2014 12:00:00 AM",5
+"T20s","India","Australia","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.76
+"T20s","India","Australia","Team Highest Score","Number","1/1/2014 12:00:00 AM",202
+"T20s","India","Australia","Team Innings","Number","1/1/2014 12:00:00 AM",9
+"T20s","India","Australia","Team Lowest Score","Number","1/1/2014 12:00:00 AM",74
+"T20s","India","Bangladesh","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",45.85
+"T20s","India","Bangladesh","Matches","Number","1/1/2014 12:00:00 AM",2
+"T20s","India","Bangladesh","Matches Lost","Number","1/1/2014 12:00:00 AM",0
+"T20s","India","Bangladesh","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","India","Bangladesh","Matches Won","Number","1/1/2014 12:00:00 AM",2
+"T20s","India","Bangladesh","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.33
+"T20s","India","Bangladesh","Team Highest Score","Number","1/1/2014 12:00:00 AM",180
+"T20s","India","Bangladesh","Team Innings","Number","1/1/2014 12:00:00 AM",2
+"T20s","India","England","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",26.7
+"T20s","India","England","Matches","Number","1/1/2014 12:00:00 AM",8
+"T20s","India","England","Matches Lost","Number","1/1/2014 12:00:00 AM",5
+"T20s","India","England","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","India","England","Matches Won","Number","1/1/2014 12:00:00 AM",3
+"T20s","India","England","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.47
+"T20s","India","England","Team Highest Score","Number","1/1/2014 12:00:00 AM",218
+"T20s","India","England","Team Innings","Number","1/1/2014 12:00:00 AM",8
+"T20s","India","England","Team Lowest Score","Number","1/1/2014 12:00:00 AM",165
+"T20s","India","New Zealand","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",24.33
+"T20s","India","New Zealand","Matches","Number","1/1/2012 12:00:00 AM",4
+"T20s","India","New Zealand","Matches Lost","Number","1/1/2012 12:00:00 AM",4
+"T20s","India","New Zealand","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","India","New Zealand","Matches Won","Number","1/1/2012 12:00:00 AM",0
+"T20s","India","New Zealand","Runs Per Over","Number","1/1/2012 12:00:00 AM",8.21
+"T20s","India","New Zealand","Team Highest Score","Number","1/1/2012 12:00:00 AM",180
+"T20s","India","New Zealand","Team Innings","Number","1/1/2012 12:00:00 AM",4
+"T20s","India","Pakistan","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",26.75
+"T20s","India","Pakistan","Matches","Number","1/1/2014 12:00:00 AM",6
+"T20s","India","Pakistan","Matches Lost","Number","1/1/2014 12:00:00 AM",1
+"T20s","India","Pakistan","Matches Tied","Number","1/1/2014 12:00:00 AM",1
+"T20s","India","Pakistan","Matches Won","Number","1/1/2014 12:00:00 AM",4
+"T20s","India","Pakistan","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.64
+"T20s","India","Pakistan","Team Highest Score","Number","1/1/2014 12:00:00 AM",192
+"T20s","India","Pakistan","Team Innings","Number","1/1/2014 12:00:00 AM",6
+"T20s","India","South Africa","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",30.28
+"T20s","India","South Africa","Matches","Number","1/1/2014 12:00:00 AM",8
+"T20s","India","South Africa","Matches Lost","Number","1/1/2014 12:00:00 AM",2
+"T20s","India","South Africa","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","India","South Africa","Matches Won","Number","1/1/2014 12:00:00 AM",6
+"T20s","India","South Africa","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.83
+"T20s","India","South Africa","Team Highest Score","Number","1/1/2014 12:00:00 AM",186
+"T20s","India","South Africa","Team Innings","Number","1/1/2014 12:00:00 AM",8
+"T20s","India","Sri Lanka","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",31.84
+"T20s","India","Sri Lanka","Matches","Number","1/1/2014 12:00:00 AM",6
+"T20s","India","Sri Lanka","Matches Lost","Number","1/1/2014 12:00:00 AM",3
+"T20s","India","Sri Lanka","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","India","Sri Lanka","Matches Won","Number","1/1/2014 12:00:00 AM",3
+"T20s","India","Sri Lanka","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.59
+"T20s","India","Sri Lanka","Team Highest Score","Number","1/1/2014 12:00:00 AM",211
+"T20s","India","Sri Lanka","Team Innings","Number","1/1/2014 12:00:00 AM",6
+"T20s","India","West Indies","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",23.88
+"T20s","India","West Indies","Matches","Number","1/1/2014 12:00:00 AM",4
+"T20s","India","West Indies","Matches Lost","Number","1/1/2014 12:00:00 AM",2
+"T20s","India","West Indies","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","India","West Indies","Matches Won","Number","1/1/2014 12:00:00 AM",2
+"T20s","India","West Indies","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.49
+"T20s","India","West Indies","Team Highest Score","Number","1/1/2014 12:00:00 AM",159
+"T20s","India","West Indies","Team Innings","Number","1/1/2014 12:00:00 AM",4
+"T20s","Ireland","Afganistan","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",22.08
+"T20s","Ireland","Afganistan","Matches","Number","1/1/2013 12:00:00 AM",5
+"T20s","Ireland","Afganistan","Matches Lost","Number","1/1/2013 12:00:00 AM",2
+"T20s","Ireland","Afganistan","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Ireland","Afganistan","Matches Won","Number","1/1/2013 12:00:00 AM",3
+"T20s","Ireland","Afganistan","Runs Per Over","Number","1/1/2013 12:00:00 AM",8.02
+"T20s","Ireland","Afganistan","Team Highest Score","Number","1/1/2013 12:00:00 AM",225
+"T20s","Ireland","Afganistan","Team Innings","Number","1/1/2013 12:00:00 AM",5
+"T20s","Ireland","Afganistan","Team Lowest Score","Number","1/1/2013 12:00:00 AM",126
+"T20s","Ireland","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",20.9
+"T20s","Ireland","All team","Matches","Number","1/1/2014 12:00:00 AM",37
+"T20s","Ireland","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",14
+"T20s","Ireland","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Ireland","All team","Matches Won","Number","1/1/2014 12:00:00 AM",20
+"T20s","Ireland","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",6.99
+"T20s","Ireland","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",225
+"T20s","Ireland","All team","Team Innings","Number","1/1/2014 12:00:00 AM",36
+"T20s","Ireland","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",68
+"T20s","Ireland","Bangladesh","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",20.84
+"T20s","Ireland","Bangladesh","Matches","Number","1/1/2012 12:00:00 AM",4
+"T20s","Ireland","Bangladesh","Matches Lost","Number","1/1/2012 12:00:00 AM",3
+"T20s","Ireland","Bangladesh","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Ireland","Bangladesh","Matches Won","Number","1/1/2012 12:00:00 AM",1
+"T20s","Ireland","Bangladesh","Runs Per Over","Number","1/1/2012 12:00:00 AM",6.91
+"T20s","Ireland","Bangladesh","Team Highest Score","Number","1/1/2012 12:00:00 AM",145
+"T20s","Ireland","Bangladesh","Team Innings","Number","1/1/2012 12:00:00 AM",4
+"T20s","Ireland","Canada","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",34.53
+"T20s","Ireland","Canada","Matches","Number","1/1/2013 12:00:00 AM",3
+"T20s","Ireland","Canada","Matches Lost","Number","1/1/2013 12:00:00 AM",1
+"T20s","Ireland","Canada","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Ireland","Canada","Matches Won","Number","1/1/2013 12:00:00 AM",2
+"T20s","Ireland","Canada","Runs Per Over","Number","1/1/2013 12:00:00 AM",9.07
+"T20s","Ireland","Canada","Team Highest Score","Number","1/1/2013 12:00:00 AM",172
+"T20s","Ireland","Canada","Team Innings","Number","1/1/2013 12:00:00 AM",3
+"T20s","Ireland","Kenya","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",23.42
+"T20s","Ireland","Kenya","Matches","Number","1/1/2012 12:00:00 AM",5
+"T20s","Ireland","Kenya","Matches Lost","Number","1/1/2012 12:00:00 AM",0
+"T20s","Ireland","Kenya","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Ireland","Kenya","Matches Won","Number","1/1/2012 12:00:00 AM",5
+"T20s","Ireland","Kenya","Runs Per Over","Number","1/1/2012 12:00:00 AM",6.18
+"T20s","Ireland","Kenya","Team Highest Score","Number","1/1/2012 12:00:00 AM",132
+"T20s","Ireland","Kenya","Team Innings","Number","1/1/2012 12:00:00 AM",5
+"T20s","Ireland","Netherlands","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",35
+"T20s","Ireland","Netherlands","Matches","Number","1/1/2014 12:00:00 AM",4
+"T20s","Ireland","Netherlands","Matches Lost","Number","1/1/2014 12:00:00 AM",1
+"T20s","Ireland","Netherlands","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Ireland","Netherlands","Matches Won","Number","1/1/2014 12:00:00 AM",2
+"T20s","Ireland","Netherlands","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.02
+"T20s","Ireland","Netherlands","Team Highest Score","Number","1/1/2014 12:00:00 AM",189
+"T20s","Ireland","Netherlands","Team Innings","Number","1/1/2014 12:00:00 AM",3
+"T20s","Ireland","Scotland","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",22.94
+"T20s","Ireland","Scotland","Matches","Number","1/1/2012 12:00:00 AM",3
+"T20s","Ireland","Scotland","Matches Lost","Number","1/1/2012 12:00:00 AM",0
+"T20s","Ireland","Scotland","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Ireland","Scotland","Matches Won","Number","1/1/2012 12:00:00 AM",3
+"T20s","Ireland","Scotland","Runs Per Over","Number","1/1/2012 12:00:00 AM",6.9
+"T20s","Ireland","Scotland","Team Highest Score","Number","1/1/2012 12:00:00 AM",159
+"T20s","Ireland","Scotland","Team Innings","Number","1/1/2012 12:00:00 AM",3
+"T20s","Ireland","West Indies","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",14.25
+"T20s","Ireland","West Indies","Matches","Number","1/1/2014 12:00:00 AM",4
+"T20s","Ireland","West Indies","Matches Lost","Number","1/1/2014 12:00:00 AM",2
+"T20s","Ireland","West Indies","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Ireland","West Indies","Matches Won","Number","1/1/2014 12:00:00 AM",1
+"T20s","Ireland","West Indies","Runs Per Over","Number","1/1/2014 12:00:00 AM",5.33
+"T20s","Ireland","West Indies","Team Highest Score","Number","1/1/2014 12:00:00 AM",129
+"T20s","Ireland","West Indies","Team Innings","Number","1/1/2014 12:00:00 AM",4
+"T20s","Ireland","West Indies","Team Lowest Score","Number","1/1/2014 12:00:00 AM",68
+"T20s","Kenya","All team","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",15.68
+"T20s","Kenya","All team","Matches","Number","1/1/2013 12:00:00 AM",29
+"T20s","Kenya","All team","Matches Lost","Number","1/1/2013 12:00:00 AM",19
+"T20s","Kenya","All team","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Kenya","All team","Matches Won","Number","1/1/2013 12:00:00 AM",10
+"T20s","Kenya","All team","Runs Per Over","Number","1/1/2013 12:00:00 AM",6.23
+"T20s","Kenya","All team","Team Highest Score","Number","1/1/2013 12:00:00 AM",183
+"T20s","Kenya","All team","Team Innings","Number","1/1/2013 12:00:00 AM",29
+"T20s","Kenya","All team","Team Lowest Score","Number","1/1/2013 12:00:00 AM",56
+"T20s","Netherlands","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",21.06
+"T20s","Netherlands","All team","Matches","Number","1/1/2014 12:00:00 AM",29
+"T20s","Netherlands","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",13
+"T20s","Netherlands","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Netherlands","All team","Matches Won","Number","1/1/2014 12:00:00 AM",15
+"T20s","Netherlands","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.16
+"T20s","Netherlands","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",193
+"T20s","Netherlands","All team","Team Innings","Number","1/1/2014 12:00:00 AM",28
+"T20s","Netherlands","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",39
+"T20s","Netherlands","Canada","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",18.9
+"T20s","Netherlands","Canada","Matches","Number","1/1/2012 12:00:00 AM",3
+"T20s","Netherlands","Canada","Matches Lost","Number","1/1/2012 12:00:00 AM",1
+"T20s","Netherlands","Canada","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Netherlands","Canada","Matches Won","Number","1/1/2012 12:00:00 AM",2
+"T20s","Netherlands","Canada","Runs Per Over","Number","1/1/2012 12:00:00 AM",6.53
+"T20s","Netherlands","Canada","Team Highest Score","Number","1/1/2012 12:00:00 AM",146
+"T20s","Netherlands","Canada","Team Innings","Number","1/1/2012 12:00:00 AM",3
+"T20s","Netherlands","Canada","Team Lowest Score","Number","1/1/2012 12:00:00 AM",97
+"T20s","Netherlands","England","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",26.9
+"T20s","Netherlands","England","Matches","Number","1/1/2014 12:00:00 AM",2
+"T20s","Netherlands","England","Matches Lost","Number","1/1/2014 12:00:00 AM",0
+"T20s","Netherlands","England","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Netherlands","England","Matches Won","Number","1/1/2014 12:00:00 AM",2
+"T20s","Netherlands","England","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.4
+"T20s","Netherlands","England","Team Highest Score","Number","1/1/2014 12:00:00 AM",163
+"T20s","Netherlands","England","Team Innings","Number","1/1/2014 12:00:00 AM",2
+"T20s","Netherlands","Ireland","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",18.71
+"T20s","Netherlands","Ireland","Matches","Number","1/1/2014 12:00:00 AM",4
+"T20s","Netherlands","Ireland","Matches Lost","Number","1/1/2014 12:00:00 AM",2
+"T20s","Netherlands","Ireland","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Netherlands","Ireland","Matches Won","Number","1/1/2014 12:00:00 AM",1
+"T20s","Netherlands","Ireland","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.96
+"T20s","Netherlands","Ireland","Team Highest Score","Number","1/1/2014 12:00:00 AM",193
+"T20s","Netherlands","Ireland","Team Innings","Number","1/1/2014 12:00:00 AM",3
+"T20s","Netherlands","Ireland","Team Lowest Score","Number","1/1/2014 12:00:00 AM",86
+"T20s","Netherlands","Kenya","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",23.36
+"T20s","Netherlands","Kenya","Matches","Number","1/1/2013 12:00:00 AM",5
+"T20s","Netherlands","Kenya","Matches Lost","Number","1/1/2013 12:00:00 AM",2
+"T20s","Netherlands","Kenya","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Netherlands","Kenya","Matches Won","Number","1/1/2013 12:00:00 AM",3
+"T20s","Netherlands","Kenya","Runs Per Over","Number","1/1/2013 12:00:00 AM",7.16
+"T20s","Netherlands","Kenya","Team Highest Score","Number","1/1/2013 12:00:00 AM",172
+"T20s","Netherlands","Kenya","Team Innings","Number","1/1/2013 12:00:00 AM",5
+"T20s","Netherlands","Kenya","Team Lowest Score","Number","1/1/2013 12:00:00 AM",113
+"T20s","Netherlands","Scotland","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",28.9
+"T20s","Netherlands","Scotland","Matches","Number","1/1/2013 12:00:00 AM",4
+"T20s","Netherlands","Scotland","Matches Lost","Number","1/1/2013 12:00:00 AM",1
+"T20s","Netherlands","Scotland","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Netherlands","Scotland","Matches Won","Number","1/1/2013 12:00:00 AM",3
+"T20s","Netherlands","Scotland","Runs Per Over","Number","1/1/2013 12:00:00 AM",7.7
+"T20s","Netherlands","Scotland","Team Highest Score","Number","1/1/2013 12:00:00 AM",169
+"T20s","Netherlands","Scotland","Team Innings","Number","1/1/2013 12:00:00 AM",4
+"T20s","New Zealand","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",22.2
+"T20s","New Zealand","All team","Matches","Number","1/1/2014 12:00:00 AM",77
+"T20s","New Zealand","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",35
+"T20s","New Zealand","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",5
+"T20s","New Zealand","All team","Matches Won","Number","1/1/2014 12:00:00 AM",35
+"T20s","New Zealand","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.79
+"T20s","New Zealand","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",214
+"T20s","New Zealand","All team","Team Innings","Number","1/1/2014 12:00:00 AM",76
+"T20s","New Zealand","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",60
+"T20s","New Zealand","Australia","Average Runs Per Wicket","Number","1/1/2010 12:00:00 AM",19.09
+"T20s","New Zealand","Australia","Matches","Number","1/1/2010 12:00:00 AM",5
+"T20s","New Zealand","Australia","Matches Lost","Number","1/1/2010 12:00:00 AM",4
+"T20s","New Zealand","Australia","Matches Tied","Number","1/1/2010 12:00:00 AM",1
+"T20s","New Zealand","Australia","Matches Won","Number","1/1/2010 12:00:00 AM",0
+"T20s","New Zealand","Australia","Runs Per Over","Number","1/1/2010 12:00:00 AM",7.94
+"T20s","New Zealand","Australia","Team Highest Score","Number","1/1/2010 12:00:00 AM",214
+"T20s","New Zealand","Australia","Team Innings","Number","1/1/2010 12:00:00 AM",5
+"T20s","New Zealand","Australia","Team Lowest Score","Number","1/1/2010 12:00:00 AM",118
+"T20s","New Zealand","England","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",21.53
+"T20s","New Zealand","England","Matches","Number","1/1/2014 12:00:00 AM",12
+"T20s","New Zealand","England","Matches Lost","Number","1/1/2014 12:00:00 AM",7
+"T20s","New Zealand","England","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","New Zealand","England","Matches Won","Number","1/1/2014 12:00:00 AM",4
+"T20s","New Zealand","England","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.99
+"T20s","New Zealand","England","Team Highest Score","Number","1/1/2014 12:00:00 AM",201
+"T20s","New Zealand","England","Team Innings","Number","1/1/2014 12:00:00 AM",11
+"T20s","New Zealand","England","Team Lowest Score","Number","1/1/2014 12:00:00 AM",152
+"T20s","New Zealand","India","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",29.26
+"T20s","New Zealand","India","Matches","Number","1/1/2012 12:00:00 AM",4
+"T20s","New Zealand","India","Matches Lost","Number","1/1/2012 12:00:00 AM",0
+"T20s","New Zealand","India","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","New Zealand","India","Matches Won","Number","1/1/2012 12:00:00 AM",4
+"T20s","New Zealand","India","Runs Per Over","Number","1/1/2012 12:00:00 AM",8.53
+"T20s","New Zealand","India","Team Highest Score","Number","1/1/2012 12:00:00 AM",190
+"T20s","New Zealand","India","Team Innings","Number","1/1/2012 12:00:00 AM",4
+"T20s","New Zealand","India","Team Lowest Score","Number","1/1/2012 12:00:00 AM",190
+"T20s","New Zealand","Pakistan","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",17.25
+"T20s","New Zealand","Pakistan","Matches","Number","1/1/2012 12:00:00 AM",9
+"T20s","New Zealand","Pakistan","Matches Lost","Number","1/1/2012 12:00:00 AM",6
+"T20s","New Zealand","Pakistan","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","New Zealand","Pakistan","Matches Won","Number","1/1/2012 12:00:00 AM",3
+"T20s","New Zealand","Pakistan","Runs Per Over","Number","1/1/2012 12:00:00 AM",7.1
+"T20s","New Zealand","Pakistan","Team Highest Score","Number","1/1/2012 12:00:00 AM",185
+"T20s","New Zealand","Pakistan","Team Innings","Number","1/1/2012 12:00:00 AM",9
+"T20s","New Zealand","Pakistan","Team Lowest Score","Number","1/1/2012 12:00:00 AM",80
+"T20s","New Zealand","South Africa","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",23.05
+"T20s","New Zealand","South Africa","Matches","Number","1/1/2014 12:00:00 AM",12
+"T20s","New Zealand","South Africa","Matches Lost","Number","1/1/2014 12:00:00 AM",9
+"T20s","New Zealand","South Africa","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","New Zealand","South Africa","Matches Won","Number","1/1/2014 12:00:00 AM",3
+"T20s","New Zealand","South Africa","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.46
+"T20s","New Zealand","South Africa","Team Highest Score","Number","1/1/2014 12:00:00 AM",173
+"T20s","New Zealand","South Africa","Team Innings","Number","1/1/2014 12:00:00 AM",12
+"T20s","New Zealand","South Africa","Team Lowest Score","Number","1/1/2014 12:00:00 AM",86
+"T20s","New Zealand","Sri Lanka","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",17.04
+"T20s","New Zealand","Sri Lanka","Matches","Number","1/1/2014 12:00:00 AM",13
+"T20s","New Zealand","Sri Lanka","Matches Lost","Number","1/1/2014 12:00:00 AM",6
+"T20s","New Zealand","Sri Lanka","Matches Tied","Number","1/1/2014 12:00:00 AM",1
+"T20s","New Zealand","Sri Lanka","Matches Won","Number","1/1/2014 12:00:00 AM",5
+"T20s","New Zealand","Sri Lanka","Runs Per Over","Number","1/1/2014 12:00:00 AM",6.82
+"T20s","New Zealand","Sri Lanka","Team Highest Score","Number","1/1/2014 12:00:00 AM",174
+"T20s","New Zealand","Sri Lanka","Team Innings","Number","1/1/2014 12:00:00 AM",13
+"T20s","New Zealand","Sri Lanka","Team Lowest Score","Number","1/1/2014 12:00:00 AM",60
+"T20s","New Zealand","West Indies","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",19.93
+"T20s","New Zealand","West Indies","Matches","Number","1/1/2014 12:00:00 AM",10
+"T20s","New Zealand","West Indies","Matches Lost","Number","1/1/2014 12:00:00 AM",3
+"T20s","New Zealand","West Indies","Matches Tied","Number","1/1/2014 12:00:00 AM",3
+"T20s","New Zealand","West Indies","Matches Won","Number","1/1/2014 12:00:00 AM",4
+"T20s","New Zealand","West Indies","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.74
+"T20s","New Zealand","West Indies","Team Highest Score","Number","1/1/2014 12:00:00 AM",191
+"T20s","New Zealand","West Indies","Team Innings","Number","1/1/2014 12:00:00 AM",10
+"T20s","New Zealand","West Indies","Team Lowest Score","Number","1/1/2014 12:00:00 AM",116
+"T20s","Pakistan","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",22.07
+"T20s","Pakistan","All team","Matches","Number","1/1/2014 12:00:00 AM",83
+"T20s","Pakistan","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",32
+"T20s","Pakistan","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",2
+"T20s","Pakistan","All team","Matches Won","Number","1/1/2014 12:00:00 AM",49
+"T20s","Pakistan","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.42
+"T20s","Pakistan","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",203
+"T20s","Pakistan","All team","Team Innings","Number","1/1/2014 12:00:00 AM",83
+"T20s","Pakistan","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",74
+"T20s","Pakistan","Australia","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",21.24
+"T20s","Pakistan","Australia","Matches","Number","1/1/2014 12:00:00 AM",13
+"T20s","Pakistan","Australia","Matches Lost","Number","1/1/2014 12:00:00 AM",5
+"T20s","Pakistan","Australia","Matches Tied","Number","1/1/2014 12:00:00 AM",1
+"T20s","Pakistan","Australia","Matches Won","Number","1/1/2014 12:00:00 AM",7
+"T20s","Pakistan","Australia","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.32
+"T20s","Pakistan","Australia","Team Highest Score","Number","1/1/2014 12:00:00 AM",191
+"T20s","Pakistan","Australia","Team Innings","Number","1/1/2014 12:00:00 AM",13
+"T20s","Pakistan","Australia","Team Lowest Score","Number","1/1/2014 12:00:00 AM",74
+"T20s","Pakistan","England","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",18.38
+"T20s","Pakistan","England","Matches","Number","1/1/2012 12:00:00 AM",10
+"T20s","Pakistan","England","Matches Lost","Number","1/1/2012 12:00:00 AM",7
+"T20s","Pakistan","England","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Pakistan","England","Matches Won","Number","1/1/2012 12:00:00 AM",3
+"T20s","Pakistan","England","Runs Per Over","Number","1/1/2012 12:00:00 AM",6.73
+"T20s","Pakistan","England","Team Highest Score","Number","1/1/2012 12:00:00 AM",149
+"T20s","Pakistan","England","Team Innings","Number","1/1/2012 12:00:00 AM",10
+"T20s","Pakistan","England","Team Lowest Score","Number","1/1/2012 12:00:00 AM",89
+"T20s","Pakistan","India","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",18.82
+"T20s","Pakistan","India","Matches","Number","1/1/2014 12:00:00 AM",6
+"T20s","Pakistan","India","Matches Lost","Number","1/1/2014 12:00:00 AM",4
+"T20s","Pakistan","India","Matches Tied","Number","1/1/2014 12:00:00 AM",1
+"T20s","Pakistan","India","Matches Won","Number","1/1/2014 12:00:00 AM",1
+"T20s","Pakistan","India","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.28
+"T20s","Pakistan","India","Team Highest Score","Number","1/1/2014 12:00:00 AM",181
+"T20s","Pakistan","India","Team Innings","Number","1/1/2014 12:00:00 AM",6
+"T20s","Pakistan","India","Team Lowest Score","Number","1/1/2014 12:00:00 AM",128
+"T20s","Pakistan","New Zealand","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",23.13
+"T20s","Pakistan","New Zealand","Matches","Number","1/1/2012 12:00:00 AM",9
+"T20s","Pakistan","New Zealand","Matches Lost","Number","1/1/2012 12:00:00 AM",3
+"T20s","Pakistan","New Zealand","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Pakistan","New Zealand","Matches Won","Number","1/1/2012 12:00:00 AM",6
+"T20s","Pakistan","New Zealand","Runs Per Over","Number","1/1/2012 12:00:00 AM",7.8
+"T20s","Pakistan","New Zealand","Team Highest Score","Number","1/1/2012 12:00:00 AM",183
+"T20s","Pakistan","New Zealand","Team Innings","Number","1/1/2012 12:00:00 AM",9
+"T20s","Pakistan","South Africa","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",19.14
+"T20s","Pakistan","South Africa","Matches","Number","1/1/2013 12:00:00 AM",11
+"T20s","Pakistan","South Africa","Matches Lost","Number","1/1/2013 12:00:00 AM",6
+"T20s","Pakistan","South Africa","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Pakistan","South Africa","Matches Won","Number","1/1/2013 12:00:00 AM",5
+"T20s","Pakistan","South Africa","Runs Per Over","Number","1/1/2013 12:00:00 AM",7.06
+"T20s","Pakistan","South Africa","Team Highest Score","Number","1/1/2013 12:00:00 AM",195
+"T20s","Pakistan","South Africa","Team Innings","Number","1/1/2013 12:00:00 AM",11
+"T20s","Pakistan","South Africa","Team Lowest Score","Number","1/1/2013 12:00:00 AM",119
+"T20s","Pakistan","Sri Lanka","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",21.22
+"T20s","Pakistan","Sri Lanka","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",15.23
+"T20s","Pakistan","Sri Lanka","Matches","Number","1/1/2013 12:00:00 AM",12
+"T20s","Pakistan","Sri Lanka","Matches","Number","1/1/2014 12:00:00 AM",4
+"T20s","Pakistan","Sri Lanka","Matches Lost","Number","1/1/2013 12:00:00 AM",5
+"T20s","Pakistan","Sri Lanka","Matches Lost","Number","1/1/2014 12:00:00 AM",2
+"T20s","Pakistan","Sri Lanka","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Pakistan","Sri Lanka","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Pakistan","Sri Lanka","Matches Won","Number","1/1/2013 12:00:00 AM",7
+"T20s","Pakistan","Sri Lanka","Matches Won","Number","1/1/2014 12:00:00 AM",2
+"T20s","Pakistan","Sri Lanka","Runs Per Over","Number","1/1/2013 12:00:00 AM",7.34
+"T20s","Pakistan","Sri Lanka","Runs Per Over","Number","1/1/2014 12:00:00 AM",6.65
+"T20s","Pakistan","Sri Lanka","Team Highest Score","Number","1/1/2013 12:00:00 AM",189
+"T20s","Pakistan","Sri Lanka","Team Highest Score","Number","1/1/2014 12:00:00 AM",158
+"T20s","Pakistan","Sri Lanka","Team Innings","Number","1/1/2013 12:00:00 AM",12
+"T20s","Pakistan","Sri Lanka","Team Innings","Number","1/1/2014 12:00:00 AM",4
+"T20s","Pakistan","Sri Lanka","Team Lowest Score","Number","1/1/2013 12:00:00 AM",95
+"T20s","Pakistan","Sri Lanka","Team Lowest Score","Number","1/1/2014 12:00:00 AM",82
+"T20s","Pakistan","Zimbabwe","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",39.45
+"T20s","Pakistan","Zimbabwe","Matches","Number","1/1/2013 12:00:00 AM",5
+"T20s","Pakistan","Zimbabwe","Matches Lost","Number","1/1/2013 12:00:00 AM",0
+"T20s","Pakistan","Zimbabwe","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Pakistan","Zimbabwe","Matches Won","Number","1/1/2013 12:00:00 AM",5
+"T20s","Pakistan","Zimbabwe","Runs Per Over","Number","1/1/2013 12:00:00 AM",7.96
+"T20s","Pakistan","Zimbabwe","Team Highest Score","Number","1/1/2013 12:00:00 AM",198
+"T20s","Pakistan","Zimbabwe","Team Innings","Number","1/1/2013 12:00:00 AM",5
+"T20s","South Africa","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",25.49
+"T20s","South Africa","All team","Matches","Number","1/1/2014 12:00:00 AM",73
+"T20s","South Africa","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",29
+"T20s","South Africa","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","South Africa","All team","Matches Won","Number","1/1/2014 12:00:00 AM",43
+"T20s","South Africa","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.84
+"T20s","South Africa","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",241
+"T20s","South Africa","All team","Team Innings","Number","1/1/2014 12:00:00 AM",73
+"T20s","South Africa","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",100
+"T20s","South Africa","Australia","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",23.67
+"T20s","South Africa","Australia","Matches","Number","1/1/2014 12:00:00 AM",14
+"T20s","South Africa","Australia","Matches Lost","Number","1/1/2014 12:00:00 AM",9
+"T20s","South Africa","Australia","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","South Africa","Australia","Matches Won","Number","1/1/2014 12:00:00 AM",5
+"T20s","South Africa","Australia","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.52
+"T20s","South Africa","Australia","Team Highest Score","Number","1/1/2014 12:00:00 AM",201
+"T20s","South Africa","Australia","Team Innings","Number","1/1/2014 12:00:00 AM",14
+"T20s","South Africa","Australia","Team Lowest Score","Number","1/1/2014 12:00:00 AM",114
+"T20s","South Africa","England","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",25.97
+"T20s","South Africa","England","Matches","Number","1/1/2014 12:00:00 AM",9
+"T20s","South Africa","England","Matches Lost","Number","1/1/2014 12:00:00 AM",3
+"T20s","South Africa","England","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","South Africa","England","Matches Won","Number","1/1/2014 12:00:00 AM",5
+"T20s","South Africa","England","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.35
+"T20s","South Africa","England","Team Highest Score","Number","1/1/2014 12:00:00 AM",241
+"T20s","South Africa","England","Team Innings","Number","1/1/2014 12:00:00 AM",9
+"T20s","South Africa","England","Team Lowest Score","Number","1/1/2014 12:00:00 AM",129
+"T20s","South Africa","India","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",22.41
+"T20s","South Africa","India","Matches","Number","1/1/2014 12:00:00 AM",8
+"T20s","South Africa","India","Matches Lost","Number","1/1/2014 12:00:00 AM",6
+"T20s","South Africa","India","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","South Africa","India","Matches Won","Number","1/1/2014 12:00:00 AM",2
+"T20s","South Africa","India","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.71
+"T20s","South Africa","India","Team Highest Score","Number","1/1/2014 12:00:00 AM",219
+"T20s","South Africa","India","Team Innings","Number","1/1/2014 12:00:00 AM",8
+"T20s","South Africa","India","Team Lowest Score","Number","1/1/2014 12:00:00 AM",151
+"T20s","South Africa","New Zealand","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",27.37
+"T20s","South Africa","New Zealand","Matches","Number","1/1/2014 12:00:00 AM",12
+"T20s","South Africa","New Zealand","Matches Lost","Number","1/1/2014 12:00:00 AM",3
+"T20s","South Africa","New Zealand","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","South Africa","New Zealand","Matches Won","Number","1/1/2014 12:00:00 AM",9
+"T20s","South Africa","New Zealand","Runs Per Over","Number","1/1/2014 12:00:00 AM",8
+"T20s","South Africa","New Zealand","Team Highest Score","Number","1/1/2014 12:00:00 AM",179
+"T20s","South Africa","New Zealand","Team Innings","Number","1/1/2014 12:00:00 AM",12
+"T20s","South Africa","New Zealand","Team Lowest Score","Number","1/1/2014 12:00:00 AM",133
+"T20s","South Africa","Pakistan","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",27.56
+"T20s","South Africa","Pakistan","Matches","Number","1/1/2013 12:00:00 AM",11
+"T20s","South Africa","Pakistan","Matches Lost","Number","1/1/2013 12:00:00 AM",5
+"T20s","South Africa","Pakistan","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","South Africa","Pakistan","Matches Won","Number","1/1/2013 12:00:00 AM",6
+"T20s","South Africa","Pakistan","Runs Per Over","Number","1/1/2013 12:00:00 AM",7.47
+"T20s","South Africa","Pakistan","Team Highest Score","Number","1/1/2013 12:00:00 AM",170
+"T20s","South Africa","Pakistan","Team Innings","Number","1/1/2013 12:00:00 AM",11
+"T20s","South Africa","Pakistan","Team Lowest Score","Number","1/1/2013 12:00:00 AM",100
+"T20s","South Africa","West Indies","Average Runs Per Wicket","Number","1/1/2010 12:00:00 AM",22.67
+"T20s","South Africa","West Indies","Matches","Number","1/1/2010 12:00:00 AM",6
+"T20s","South Africa","West Indies","Matches Lost","Number","1/1/2010 12:00:00 AM",1
+"T20s","South Africa","West Indies","Matches Tied","Number","1/1/2010 12:00:00 AM",0
+"T20s","South Africa","West Indies","Matches Won","Number","1/1/2010 12:00:00 AM",5
+"T20s","South Africa","West Indies","Runs Per Over","Number","1/1/2010 12:00:00 AM",7.62
+"T20s","South Africa","West Indies","Team Highest Score","Number","1/1/2010 12:00:00 AM",208
+"T20s","South Africa","West Indies","Team Innings","Number","1/1/2010 12:00:00 AM",6
+"T20s","South Africa","Zimbabwe","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",50.77
+"T20s","South Africa","Zimbabwe","Matches","Number","1/1/2012 12:00:00 AM",3
+"T20s","South Africa","Zimbabwe","Matches Lost","Number","1/1/2012 12:00:00 AM",0
+"T20s","South Africa","Zimbabwe","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","South Africa","Zimbabwe","Matches Won","Number","1/1/2012 12:00:00 AM",3
+"T20s","South Africa","Zimbabwe","Runs Per Over","Number","1/1/2012 12:00:00 AM",9.42
+"T20s","South Africa","Zimbabwe","Team Highest Score","Number","1/1/2012 12:00:00 AM",194
+"T20s","South Africa","Zimbabwe","Team Innings","Number","1/1/2012 12:00:00 AM",3
+"T20s","Scotland","All team","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",18.12
+"T20s","Scotland","All team","Matches","Number","1/1/2013 12:00:00 AM",25
+"T20s","Scotland","All team","Matches Lost","Number","1/1/2013 12:00:00 AM",16
+"T20s","Scotland","All team","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Scotland","All team","Matches Won","Number","1/1/2013 12:00:00 AM",8
+"T20s","Scotland","All team","Runs Per Over","Number","1/1/2013 12:00:00 AM",6.63
+"T20s","Scotland","All team","Team Highest Score","Number","1/1/2013 12:00:00 AM",178
+"T20s","Scotland","All team","Team Innings","Number","1/1/2013 12:00:00 AM",24
+"T20s","Scotland","All team","Team Lowest Score","Number","1/1/2013 12:00:00 AM",81
+"T20s","Scotland","Ireland","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",13.25
+"T20s","Scotland","Ireland","Matches","Number","1/1/2012 12:00:00 AM",3
+"T20s","Scotland","Ireland","Matches Lost","Number","1/1/2012 12:00:00 AM",3
+"T20s","Scotland","Ireland","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Scotland","Ireland","Matches Won","Number","1/1/2012 12:00:00 AM",0
+"T20s","Scotland","Ireland","Runs Per Over","Number","1/1/2012 12:00:00 AM",6.11
+"T20s","Scotland","Ireland","Team Highest Score","Number","1/1/2012 12:00:00 AM",142
+"T20s","Scotland","Ireland","Team Innings","Number","1/1/2012 12:00:00 AM",3
+"T20s","Scotland","Ireland","Team Lowest Score","Number","1/1/2012 12:00:00 AM",99
+"T20s","Scotland","Kenya","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",17.97
+"T20s","Scotland","Kenya","Matches","Number","1/1/2013 12:00:00 AM",7
+"T20s","Scotland","Kenya","Matches Lost","Number","1/1/2013 12:00:00 AM",3
+"T20s","Scotland","Kenya","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Scotland","Kenya","Matches Won","Number","1/1/2013 12:00:00 AM",4
+"T20s","Scotland","Kenya","Runs Per Over","Number","1/1/2013 12:00:00 AM",6.39
+"T20s","Scotland","Kenya","Team Highest Score","Number","1/1/2013 12:00:00 AM",178
+"T20s","Scotland","Kenya","Team Innings","Number","1/1/2013 12:00:00 AM",7
+"T20s","Scotland","Kenya","Team Lowest Score","Number","1/1/2013 12:00:00 AM",91
+"T20s","Sri Lanka","All team","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",23.7
+"T20s","Sri Lanka","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",23.97
+"T20s","Sri Lanka","All team","Matches","Number","1/1/2013 12:00:00 AM",8
+"T20s","Sri Lanka","All team","Matches","Number","1/1/2014 12:00:00 AM",67
+"T20s","Sri Lanka","All team","Matches Lost","Number","1/1/2013 12:00:00 AM",2
+"T20s","Sri Lanka","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",23
+"T20s","Sri Lanka","All team","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Sri Lanka","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",1
+"T20s","Sri Lanka","All team","Matches Won","Number","1/1/2013 12:00:00 AM",6
+"T20s","Sri Lanka","All team","Matches Won","Number","1/1/2014 12:00:00 AM",42
+"T20s","Sri Lanka","All team","Runs Per Over","Number","1/1/2013 12:00:00 AM",7.57
+"T20s","Sri Lanka","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.75
+"T20s","Sri Lanka","All team","Team Highest Score","Number","1/1/2013 12:00:00 AM",198
+"T20s","Sri Lanka","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",260
+"T20s","Sri Lanka","All team","Team Innings","Number","1/1/2013 12:00:00 AM",8
+"T20s","Sri Lanka","All team","Team Innings","Number","1/1/2014 12:00:00 AM",67
+"T20s","Sri Lanka","All team","Team Lowest Score","Number","1/1/2013 12:00:00 AM",87
+"T20s","Sri Lanka","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",87
+"T20s","Sri Lanka","Bangladesh","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",26.5
+"T20s","Sri Lanka","Bangladesh","Matches","Number","1/1/2014 12:00:00 AM",4
+"T20s","Sri Lanka","Bangladesh","Matches Lost","Number","1/1/2014 12:00:00 AM",0
+"T20s","Sri Lanka","Bangladesh","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Sri Lanka","Bangladesh","Matches Won","Number","1/1/2014 12:00:00 AM",4
+"T20s","Sri Lanka","Bangladesh","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.95
+"T20s","Sri Lanka","Bangladesh","Team Highest Score","Number","1/1/2014 12:00:00 AM",198
+"T20s","Sri Lanka","Bangladesh","Team Innings","Number","1/1/2014 12:00:00 AM",4
+"T20s","Sri Lanka","England","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",28.5
+"T20s","Sri Lanka","England","Matches","Number","1/1/2014 12:00:00 AM",6
+"T20s","Sri Lanka","England","Matches Lost","Number","1/1/2014 12:00:00 AM",2
+"T20s","Sri Lanka","England","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Sri Lanka","England","Matches Won","Number","1/1/2014 12:00:00 AM",4
+"T20s","Sri Lanka","England","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.25
+"T20s","Sri Lanka","England","Team Highest Score","Number","1/1/2014 12:00:00 AM",189
+"T20s","Sri Lanka","England","Team Innings","Number","1/1/2014 12:00:00 AM",6
+"T20s","Sri Lanka","England","Team Lowest Score","Number","1/1/2014 12:00:00 AM",163
+"T20s","Sri Lanka","India","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",28.82
+"T20s","Sri Lanka","India","Matches","Number","1/1/2014 12:00:00 AM",6
+"T20s","Sri Lanka","India","Matches Lost","Number","1/1/2014 12:00:00 AM",3
+"T20s","Sri Lanka","India","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Sri Lanka","India","Matches Won","Number","1/1/2014 12:00:00 AM",3
+"T20s","Sri Lanka","India","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.71
+"T20s","Sri Lanka","India","Team Highest Score","Number","1/1/2014 12:00:00 AM",215
+"T20s","Sri Lanka","India","Team Innings","Number","1/1/2014 12:00:00 AM",6
+"T20s","Sri Lanka","India","Team Lowest Score","Number","1/1/2014 12:00:00 AM",116
+"T20s","Sri Lanka","New Zealand","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",21.09
+"T20s","Sri Lanka","New Zealand","Matches","Number","1/1/2014 12:00:00 AM",13
+"T20s","Sri Lanka","New Zealand","Matches Lost","Number","1/1/2014 12:00:00 AM",5
+"T20s","Sri Lanka","New Zealand","Matches Tied","Number","1/1/2014 12:00:00 AM",1
+"T20s","Sri Lanka","New Zealand","Matches Won","Number","1/1/2014 12:00:00 AM",6
+"T20s","Sri Lanka","New Zealand","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.08
+"T20s","Sri Lanka","New Zealand","Team Highest Score","Number","1/1/2014 12:00:00 AM",174
+"T20s","Sri Lanka","New Zealand","Team Innings","Number","1/1/2014 12:00:00 AM",13
+"T20s","Sri Lanka","New Zealand","Team Lowest Score","Number","1/1/2014 12:00:00 AM",92
+"T20s","Sri Lanka","Pakistan","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",20.01
+"T20s","Sri Lanka","Pakistan","Matches","Number","1/1/2013 12:00:00 AM",12
+"T20s","Sri Lanka","Pakistan","Matches Lost","Number","1/1/2013 12:00:00 AM",7
+"T20s","Sri Lanka","Pakistan","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","Sri Lanka","Pakistan","Matches Won","Number","1/1/2013 12:00:00 AM",5
+"T20s","Sri Lanka","Pakistan","Runs Per Over","Number","1/1/2013 12:00:00 AM",7.2
+"T20s","Sri Lanka","Pakistan","Team Highest Score","Number","1/1/2013 12:00:00 AM",211
+"T20s","Sri Lanka","Pakistan","Team Innings","Number","1/1/2013 12:00:00 AM",12
+"T20s","Sri Lanka","Pakistan","Team Lowest Score","Number","1/1/2013 12:00:00 AM",99
+"T20s","Sri Lanka","West Indies","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",31.2
+"T20s","Sri Lanka","West Indies","Matches","Number","1/1/2014 12:00:00 AM",6
+"T20s","Sri Lanka","West Indies","Matches Lost","Number","1/1/2014 12:00:00 AM",1
+"T20s","Sri Lanka","West Indies","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","Sri Lanka","West Indies","Matches Won","Number","1/1/2014 12:00:00 AM",5
+"T20s","Sri Lanka","West Indies","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.21
+"T20s","Sri Lanka","West Indies","Team Highest Score","Number","1/1/2014 12:00:00 AM",195
+"T20s","Sri Lanka","West Indies","Team Innings","Number","1/1/2014 12:00:00 AM",6
+"T20s","Sri Lanka","West Indies","Team Lowest Score","Number","1/1/2014 12:00:00 AM",101
+"T20s","Sri Lanka","Zimbabwe","Average Runs Per Wicket","Number","1/1/2012 12:00:00 AM",28.87
+"T20s","Sri Lanka","Zimbabwe","Matches","Number","1/1/2012 12:00:00 AM",3
+"T20s","Sri Lanka","Zimbabwe","Matches Lost","Number","1/1/2012 12:00:00 AM",0
+"T20s","Sri Lanka","Zimbabwe","Matches Tied","Number","1/1/2012 12:00:00 AM",0
+"T20s","Sri Lanka","Zimbabwe","Matches Won","Number","1/1/2012 12:00:00 AM",3
+"T20s","Sri Lanka","Zimbabwe","Runs Per Over","Number","1/1/2012 12:00:00 AM",8.25
+"T20s","Sri Lanka","Zimbabwe","Team Highest Score","Number","1/1/2012 12:00:00 AM",182
+"T20s","Sri Lanka","Zimbabwe","Team Innings","Number","1/1/2012 12:00:00 AM",3
+"T20s","West Indies","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",22.67
+"T20s","West Indies","All team","Matches","Number","1/1/2014 12:00:00 AM",66
+"T20s","West Indies","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",31
+"T20s","West Indies","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",3
+"T20s","West Indies","All team","Matches Won","Number","1/1/2014 12:00:00 AM",30
+"T20s","West Indies","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.66
+"T20s","West Indies","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",209
+"T20s","West Indies","All team","Team Innings","Number","1/1/2014 12:00:00 AM",64
+"T20s","West Indies","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",101
+"T20s","West Indies","Australia","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",24.77
+"T20s","West Indies","Australia","Matches","Number","1/1/2014 12:00:00 AM",11
+"T20s","West Indies","Australia","Matches Lost","Number","1/1/2014 12:00:00 AM",5
+"T20s","West Indies","Australia","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","West Indies","Australia","Matches Won","Number","1/1/2014 12:00:00 AM",6
+"T20s","West Indies","Australia","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.52
+"T20s","West Indies","Australia","Team Highest Score","Number","1/1/2014 12:00:00 AM",205
+"T20s","West Indies","Australia","Team Innings","Number","1/1/2014 12:00:00 AM",11
+"T20s","West Indies","Australia","Team Lowest Score","Number","1/1/2014 12:00:00 AM",105
+"T20s","West Indies","England","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",26.4
+"T20s","West Indies","England","Matches","Number","1/1/2014 12:00:00 AM",12
+"T20s","West Indies","England","Matches Lost","Number","1/1/2014 12:00:00 AM",4
+"T20s","West Indies","England","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","West Indies","England","Matches Won","Number","1/1/2014 12:00:00 AM",8
+"T20s","West Indies","England","Runs Per Over","Number","1/1/2014 12:00:00 AM",8.14
+"T20s","West Indies","England","Team Highest Score","Number","1/1/2014 12:00:00 AM",208
+"T20s","West Indies","England","Team Innings","Number","1/1/2014 12:00:00 AM",12
+"T20s","West Indies","England","Team Lowest Score","Number","1/1/2014 12:00:00 AM",125
+"T20s","West Indies","India","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",28.42
+"T20s","West Indies","India","Matches","Number","1/1/2014 12:00:00 AM",4
+"T20s","West Indies","India","Matches Lost","Number","1/1/2014 12:00:00 AM",2
+"T20s","West Indies","India","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","West Indies","India","Matches Won","Number","1/1/2014 12:00:00 AM",2
+"T20s","West Indies","India","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.58
+"T20s","West Indies","India","Team Highest Score","Number","1/1/2014 12:00:00 AM",169
+"T20s","West Indies","India","Team Innings","Number","1/1/2014 12:00:00 AM",4
+"T20s","West Indies","Ireland","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",13.46
+"T20s","West Indies","Ireland","Matches","Number","1/1/2014 12:00:00 AM",4
+"T20s","West Indies","Ireland","Matches Lost","Number","1/1/2014 12:00:00 AM",1
+"T20s","West Indies","Ireland","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","West Indies","Ireland","Matches Won","Number","1/1/2014 12:00:00 AM",2
+"T20s","West Indies","Ireland","Runs Per Over","Number","1/1/2014 12:00:00 AM",5.83
+"T20s","West Indies","Ireland","Team Highest Score","Number","1/1/2014 12:00:00 AM",138
+"T20s","West Indies","Ireland","Team Innings","Number","1/1/2014 12:00:00 AM",3
+"T20s","West Indies","New Zealand","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",23.1
+"T20s","West Indies","New Zealand","Matches","Number","1/1/2014 12:00:00 AM",10
+"T20s","West Indies","New Zealand","Matches Lost","Number","1/1/2014 12:00:00 AM",4
+"T20s","West Indies","New Zealand","Matches Tied","Number","1/1/2014 12:00:00 AM",3
+"T20s","West Indies","New Zealand","Matches Won","Number","1/1/2014 12:00:00 AM",3
+"T20s","West Indies","New Zealand","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.72
+"T20s","West Indies","New Zealand","Team Highest Score","Number","1/1/2014 12:00:00 AM",209
+"T20s","West Indies","New Zealand","Team Innings","Number","1/1/2014 12:00:00 AM",10
+"T20s","West Indies","New Zealand","Team Lowest Score","Number","1/1/2014 12:00:00 AM",139
+"T20s","West Indies","Pakistan","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",20.41
+"T20s","West Indies","Pakistan","Matches","Number","1/1/2014 12:00:00 AM",4
+"T20s","West Indies","Pakistan","Matches Lost","Number","1/1/2014 12:00:00 AM",2
+"T20s","West Indies","Pakistan","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","West Indies","Pakistan","Matches Won","Number","1/1/2014 12:00:00 AM",2
+"T20s","West Indies","Pakistan","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.4
+"T20s","West Indies","Pakistan","Team Highest Score","Number","1/1/2014 12:00:00 AM",166
+"T20s","West Indies","Pakistan","Team Innings","Number","1/1/2014 12:00:00 AM",4
+"T20s","West Indies","South Africa","Average Runs Per Wicket","Number","1/1/2010 12:00:00 AM",18.2
+"T20s","West Indies","South Africa","Matches","Number","1/1/2010 12:00:00 AM",6
+"T20s","West Indies","South Africa","Matches Lost","Number","1/1/2010 12:00:00 AM",5
+"T20s","West Indies","South Africa","Matches Tied","Number","1/1/2010 12:00:00 AM",0
+"T20s","West Indies","South Africa","Matches Won","Number","1/1/2010 12:00:00 AM",1
+"T20s","West Indies","South Africa","Runs Per Over","Number","1/1/2010 12:00:00 AM",7.3
+"T20s","West Indies","South Africa","Team Highest Score","Number","1/1/2010 12:00:00 AM",205
+"T20s","West Indies","South Africa","Team Innings","Number","1/1/2010 12:00:00 AM",6
+"T20s","West Indies","South Africa","Team Lowest Score","Number","1/1/2010 12:00:00 AM",123
+"T20s","West Indies","Sri Lanka","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",20.05
+"T20s","West Indies","Sri Lanka","Matches","Number","1/1/2014 12:00:00 AM",6
+"T20s","West Indies","Sri Lanka","Matches Lost","Number","1/1/2014 12:00:00 AM",5
+"T20s","West Indies","Sri Lanka","Matches Tied","Number","1/1/2014 12:00:00 AM",0
+"T20s","West Indies","Sri Lanka","Matches Won","Number","1/1/2014 12:00:00 AM",1
+"T20s","West Indies","Sri Lanka","Runs Per Over","Number","1/1/2014 12:00:00 AM",6.83
+"T20s","West Indies","Sri Lanka","Team Highest Score","Number","1/1/2014 12:00:00 AM",177
+"T20s","West Indies","Sri Lanka","Team Innings","Number","1/1/2014 12:00:00 AM",6
+"T20s","West Indies","Sri Lanka","Team Lowest Score","Number","1/1/2014 12:00:00 AM",101
+"T20s","West Indies","Zimbabwe","Average Runs Per Wicket","Number","1/1/2013 12:00:00 AM",23
+"T20s","West Indies","Zimbabwe","Matches","Number","1/1/2013 12:00:00 AM",3
+"T20s","West Indies","Zimbabwe","Matches Lost","Number","1/1/2013 12:00:00 AM",1
+"T20s","West Indies","Zimbabwe","Matches Tied","Number","1/1/2013 12:00:00 AM",0
+"T20s","West Indies","Zimbabwe","Matches Won","Number","1/1/2013 12:00:00 AM",2
+"T20s","West Indies","Zimbabwe","Runs Per Over","Number","1/1/2013 12:00:00 AM",6.55
+"T20s","West Indies","Zimbabwe","Team Highest Score","Number","1/1/2013 12:00:00 AM",158
+"T20s","West Indies","Zimbabwe","Team Innings","Number","1/1/2013 12:00:00 AM",3
+"T20s","Zimbabwe","All team","Average Runs Per Wicket","Number","1/1/2014 12:00:00 AM",19.18
+"T20s","Zimbabwe","All team","Matches","Number","1/1/2014 12:00:00 AM",31
+"T20s","Zimbabwe","All team","Matches Lost","Number","1/1/2014 12:00:00 AM",24
+"T20s","Zimbabwe","All team","Matches Tied","Number","1/1/2014 12:00:00 AM",1
+"T20s","Zimbabwe","All team","Matches Won","Number","1/1/2014 12:00:00 AM",6
+"T20s","Zimbabwe","All team","Runs Per Over","Number","1/1/2014 12:00:00 AM",7.07
+"T20s","Zimbabwe","All team","Team Highest Score","Number","1/1/2014 12:00:00 AM",200
+"T20s","Zimbabwe","All team","Team Innings","Number","1/1/2014 12:00:00 AM",31
+"T20s","Zimbabwe","All team","Team Lowest Score","Number","1/1/2014 12:00:00 AM",84
